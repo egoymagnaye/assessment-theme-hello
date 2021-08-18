@@ -1,0 +1,29 @@
+body {
+  background: transparent;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: #fff;
+  background-image: url(/wp-content/uploads/2021/08/pexels-grafixartphoto-samir-belhamra-4254618-optimized.jpg);
+  background-repeat: no-repeat;
+}
+
+#login h1 a,
+.login h1 a {
+  background-image: url(/wp-content/themes/em-theme-hello/assets/img/em-logo-v2.png);
+  height: 65px;
+  width: 320px;
+  background-size: 463px 429px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-bottom: 40px;
+}
+
+.login form {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+.login #backtoblog a,
+.login #nav a {
+  color: #fff !important;
+}
